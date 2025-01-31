@@ -1,0 +1,22 @@
+namespace ConsoleApp8
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string data;
+            data = Console.ReadLine();
+            Console.WriteLine(data + ", поздравляю тебя с днем рождения!!!");
+            Console.WriteLine("Желаю много дней счастливых,");
+            Console.WriteLine("Событий ярких и красивых,");
+            Console.WriteLine("Вокруг - людей родных и близких,");
+            Console.WriteLine("Чтоб замечательно жилось.");
+            Console.WriteLine("Во всём везло, всё удавалось,");
+            Console.WriteLine("Чтоб был успех, удача, радость,");
+            Console.WriteLine("И то, о чём всегда мечталось,");
+            Console.WriteLine("Осуществилось и сбывалось!!");
+            Console.WriteLine("С наилучшими пожеланиями,");
+            Console.WriteLine("от Ани:)");
+        }
+    }
+}
